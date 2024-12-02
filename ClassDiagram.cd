@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChefManager.Menu">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpecialMenu">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAIAAAAAAAIAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>SpecialMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DailyMenu">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAIAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DailyMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChefManager.DinnerPartyMenu">
+    <Position X="4.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAIAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DinnerPartyMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChefManager.Recipe">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEEIAAAAQAAAAIAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Recipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChefManager.RecipeManager">
+    <Position X="6.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQBAAACAAoBAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RecipeManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChefManager.ChefManager.Inventory">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAEAAAACAAAAQAAAAAAgAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChefManager.Ingredient">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAQAAAAAAAAAAAAAgAAACAA=</HashCode>
+      <FileName>Ingredient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChefManager.IngredientInventory">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAEAAAAAAAAAQAAAAAAgAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IngredientInventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChefManager.CreateMenuForm">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAAAAEAAACAAAAEAQAGCAEASAAABAAAEAAAAAAUAAAA=</HashCode>
+      <FileName>CreateMenuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChefManager.fmain">
+    <Position X="9.75" Y="1.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAGAgAAAAhACBIAQCAwAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChefManager.InventoryForm">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgggAAGCBxAAAUAECAAAgiECAAkBACAQABEAADAAc=</HashCode>
+      <FileName>InventoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChefManager.MenuForm">
+    <Position X="12.75" Y="1.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAEgAACCAAAgAAAMCAQBACAAwAEIAAQAgAAAAACAA=</HashCode>
+      <FileName>MenuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChefManager.RecipeDetailsForm">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQBAAAhAAiAAAAEAAACAAMACAAAAABAAAAAAAAIAAAQ=</HashCode>
+      <FileName>RecipeDetailsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChefManager.RecipeForm">
+    <Position X="13.75" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAAIgAACASCCBoCIAQAEAAgQAQAABCACAA=</HashCode>
+      <FileName>RecipeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
